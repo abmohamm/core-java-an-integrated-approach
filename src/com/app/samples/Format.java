@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.app.samples;
 
 // TODO: Auto-generated Javadoc
