@@ -1,7 +1,7 @@
 /*
  * 
  */
-package com.app.samples;
+package com.app.samples.operators;
 
 // TODO: Auto-generated Javadoc
 /**

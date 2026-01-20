@@ -1,4 +1,4 @@
-package com.app.samples;
+package com.app.samples.namingconventionsandtypes;
 
 // TODO: Auto-generated Javadoc
 /**
