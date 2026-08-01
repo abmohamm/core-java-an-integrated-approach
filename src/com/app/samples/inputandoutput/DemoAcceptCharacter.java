@@ -1,3 +1,4 @@
+//Accepting a single character from keyboard
 package com.app.samples.inputandoutput;
 
 import java.io.BufferedReader;
@@ -25,8 +26,10 @@ public class DemoAcceptCharacter {
 		InputStreamReader streamReader = new InputStreamReader(System.in);
 		//	To accept data from the keyboard
 		BufferedReader br = new BufferedReader(streamReader);
+		//ask for character and read it
 		System.out.print("Enter a character : ");
 		char ch = (char)br.read();
+		//display the character
 		System.out.println("You entered : " + ch);
 	}
 

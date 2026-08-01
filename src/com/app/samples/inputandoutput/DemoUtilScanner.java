@@ -1,3 +1,4 @@
+//Scanner to scan the input from keyboard
 package com.app.samples.inputandoutput;
 
 import java.util.Scanner;

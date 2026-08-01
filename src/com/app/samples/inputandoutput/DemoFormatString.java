@@ -1,3 +1,4 @@
+//getting formatted output into a string
 package com.app.samples.inputandoutput;
 
 // TODO: Auto-generated Javadoc

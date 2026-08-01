@@ -1,3 +1,4 @@
+//Accepting different inputs in a line
 package com.app.samples.inputandoutput;
 
 import java.io.BufferedReader;

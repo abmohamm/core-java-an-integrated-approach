@@ -1,3 +1,4 @@
+//Accepting an int from keyboard
 package com.app.samples.inputandoutput;
 
 import java.io.BufferedReader;
@@ -27,8 +28,10 @@ public class DemoAcceptInteger {
 		InputStreamReader streamReader = new InputStreamReader(System.in);
 		//	To accept data from the keyboard
 		BufferedReader br = new BufferedReader(streamReader);
+		//ask for integer and read it
 		System.out.println("Enter an integer value : ");
 		int num = Integer.parseInt(br.readLine());
+		//display the int
 		System.out.println("You entered : " + num);
 	}
 

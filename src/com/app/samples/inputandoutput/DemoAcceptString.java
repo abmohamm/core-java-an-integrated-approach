@@ -1,3 +1,4 @@
+//Accepting a string from keyboard
 package com.app.samples.inputandoutput;
 
 import java.io.BufferedReader;
@@ -25,8 +26,10 @@ public class DemoAcceptString {
 		InputStreamReader streamReader = new InputStreamReader(System.in);
 		//	To accept data from the keyboard
 		BufferedReader br = new BufferedReader(streamReader);
+		//ask for string and  read it
 		System.out.print("Enter a name : ");
 		String name = br.readLine();
+		//display the string
 		System.out.println("You entered : " + name);
 
 	}

@@ -1,3 +1,4 @@
+//Accepting a float value from keyboard
 package com.app.samples.inputandoutput;
 
 import java.io.BufferedReader;
@@ -27,8 +28,10 @@ public class DemoAcceptFloat {
 		InputStreamReader streamReader = new InputStreamReader(System.in);
 		//	To accept data from the keyboard
 		BufferedReader br = new BufferedReader(streamReader);
+		//ask for float and read it
 		System.out.println("Enter an float value : ");
 		float num = Float.parseFloat(br.readLine());
+		//display the float
 		System.out.println("You entered : " + num);
 	}
 }
