@@ -1,7 +1,7 @@
+//Relating objects of three classes
 package com.app.samples.relationshipbetweenobjects;
 
 // TODO: Auto-generated Javadoc
-//Relating objects of three classes
 class OneObject {
 	
 	//secondObject is SecondObject class reference

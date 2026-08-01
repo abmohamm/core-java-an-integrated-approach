@@ -1,10 +1,10 @@
+//creating push button and providing action to it using Inner class
 package com.app.samples.relationshipbetweenobjects;
 
 import java.awt.Button;
 import java.awt.Frame;
 import java.awt.event.ActionEvent;
 
-//creating push button and providing action to it using Inner class
 public class ButtonDemo extends Frame{
 	
 	ButtonDemo() {
@@ -17,6 +17,7 @@ public class ButtonDemo extends Frame{
 		//add action listener to button
 		//MyClass is hidden Inner class of ActionListener interface whose name is not written but an object is created.
 		button.addActionListener(new ActionListener() {
+			//this method is executed when button is clicked
 			public void actionPerformed(ActionEvent e) {
 				
 				//exit the application

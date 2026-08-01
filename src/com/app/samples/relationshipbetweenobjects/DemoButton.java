@@ -1,10 +1,11 @@
+//Creating a push button and providing action to it.
 package com.app.samples.relationshipbetweenobjects;
 
-import java.awt.Button;
-import java.awt.Color;
-import java.awt.Frame;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
+import java.awt.Button;	//for button
+import java.awt.Color;	//for button
+import java.awt.Frame;	//for button
+import java.awt.event.ActionEvent;	//for ActionListener
+import java.awt.event.ActionListener;	//for ActionListener
 
 // TODO: Auto-generated Javadoc
 /**

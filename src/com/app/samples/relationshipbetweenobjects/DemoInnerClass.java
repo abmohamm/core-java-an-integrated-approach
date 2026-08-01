@@ -1,10 +1,10 @@
+//Inner class example
 package com.app.samples.relationshipbetweenobjects;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//Inner class example
 //This is outer class
 class BankAccount {
 	

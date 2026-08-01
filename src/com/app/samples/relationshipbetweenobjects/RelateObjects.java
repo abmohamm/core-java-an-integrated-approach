@@ -1,6 +1,6 @@
+//Relating class ObjectTwo with ObjectOne
 package com.app.samples.relationshipbetweenobjects;
-
-//Relating ObjectTwo with ObjectOne 
+ 
 class ObjectOne {
 	
 	//instance variables
