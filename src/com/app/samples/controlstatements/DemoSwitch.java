@@ -1,3 +1,4 @@
+//To display a color name depending on color value
 package com.app.samples.controlstatements;
 
 // TODO: Auto-generated Javadoc

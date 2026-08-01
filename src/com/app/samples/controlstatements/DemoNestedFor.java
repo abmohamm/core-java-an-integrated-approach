@@ -1,3 +1,4 @@
+//To display stars in right angled triangular form - nested for loops
 package com.app.samples.controlstatements;
 
 // TODO: Auto-generated Javadoc

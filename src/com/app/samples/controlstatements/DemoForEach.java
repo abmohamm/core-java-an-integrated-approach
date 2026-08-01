@@ -1,3 +1,4 @@
+//Using for-each loop - to display array elements
 package com.app.samples.controlstatements;
 
 // TODO: Auto-generated Javadoc
