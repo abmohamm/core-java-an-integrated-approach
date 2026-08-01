@@ -1,3 +1,4 @@
+//To compose full name of a person
 package com.app.samples.stringbufferandstringbuilder;
 
 import java.io.BufferedReader;
