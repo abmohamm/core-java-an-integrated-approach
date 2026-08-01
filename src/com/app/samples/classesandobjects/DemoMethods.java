@@ -1,3 +1,4 @@
+// To accept a person's name and age, display if he is young, middle or aged
 package com.app.samples.classesandobjects;
 
 import java.io.BufferedReader;

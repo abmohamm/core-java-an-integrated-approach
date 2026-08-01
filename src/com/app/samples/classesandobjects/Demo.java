@@ -1,3 +1,6 @@
+//Creating a class and object
+//class and object
+//Initializing the instance variables
 package com.app.samples.classesandobjects;
 
 //TODO: Auto-generated Javadoc
@@ -36,6 +39,8 @@ public class Demo {
  * The Class Person.
  */
 //	creating a class and object
+//Initializing the instance variables using a default constructor
+//Initializing the instance variables using a parameterized constructor
 class Person {
 	
 	//	properties - variables

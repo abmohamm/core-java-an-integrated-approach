@@ -1,3 +1,4 @@
+//Accepting instance variables via VM arguments
 package com.app.samples.classesandobjects;
 
 /**
@@ -24,6 +25,7 @@ public class DemoVMArguments {
 /**
  * The Class PersonThree.
  */
+//Initializing the instance variables using a parameterized constructor
 class  PersonThree {
 	
 	//	instance variables
