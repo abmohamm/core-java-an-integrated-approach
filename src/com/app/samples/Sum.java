@@ -1,3 +1,4 @@
+//To find sum of two numbers
 package com.app.samples;
 
 import java.lang.System;
