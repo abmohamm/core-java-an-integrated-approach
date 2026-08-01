@@ -1,3 +1,4 @@
+//Formatting the output
 package com.app.samples.namingconventionsandtypes;
 
 // TODO: Auto-generated Javadoc
