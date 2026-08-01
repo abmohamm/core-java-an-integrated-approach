@@ -1,6 +1,4 @@
-/*
- * 
- */
+// Use of Increment operators
 package com.app.samples.operators;
 
 // TODO: Auto-generated Javadoc

@@ -1,3 +1,4 @@
+//compact notation - short cut use of arithmetic operators (+, -, *, /, %)
 package com.app.samples.operators;
 
 // TODO: Auto-generated Javadoc
