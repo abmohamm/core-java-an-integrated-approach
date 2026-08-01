@@ -1,3 +1,4 @@
+//Command line arguments
 package com.app.samples.arrays;
 
 // TODO: Auto-generated Javadoc
@@ -16,6 +17,7 @@ public class DemoVMArguments {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//find number of arguments
 		int numberOfArguments = args.length;
 		System.out.println("number of arguments : " + numberOfArguments);
 		

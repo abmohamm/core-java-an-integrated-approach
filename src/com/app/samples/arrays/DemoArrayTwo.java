@@ -1,3 +1,4 @@
+//Total marks and percentage
 package com.app.samples.arrays;
 
 import java.io.BufferedReader;

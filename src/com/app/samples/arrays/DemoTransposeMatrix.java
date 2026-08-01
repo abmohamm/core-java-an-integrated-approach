@@ -1,3 +1,4 @@
+//Transpose of a matrix
 package com.app.samples.arrays;
 
 import java.util.Scanner;

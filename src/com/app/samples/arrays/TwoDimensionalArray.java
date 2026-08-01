@@ -1,3 +1,4 @@
+//Displaying a 2D array as matrix
 package com.app.samples.arrays;
 
 // TODO: Auto-generated Javadoc

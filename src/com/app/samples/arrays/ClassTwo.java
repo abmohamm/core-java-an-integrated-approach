@@ -1,3 +1,4 @@
+//calling main() of a ClassOne from another class : ClassTwo
 package com.app.samples.arrays;
 
 // TODO: Auto-generated Javadoc

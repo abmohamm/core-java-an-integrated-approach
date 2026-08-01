@@ -1,3 +1,4 @@
+//Jagged arrat that contains two 1D arrays
 package com.app.samples.arrays;
 
 // TODO: Auto-generated Javadoc
