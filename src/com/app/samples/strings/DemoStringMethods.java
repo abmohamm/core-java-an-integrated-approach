@@ -1,3 +1,4 @@
+//Demo of string class methods
 package com.app.samples.strings;
 
 // TODO: Auto-generated Javadoc

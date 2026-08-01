@@ -1,3 +1,4 @@
+//Searching for a string - Linear search
 package com.app.samples.strings;
 
 import java.io.BufferedReader;

@@ -1,3 +1,4 @@
+//Splitting a string
 package com.app.samples.strings;
 
 // TODO: Auto-generated Javadoc

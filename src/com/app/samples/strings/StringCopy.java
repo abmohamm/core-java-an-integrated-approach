@@ -1,3 +1,4 @@
+//Copying a string into an array
 package com.app.samples.strings;
 
 // TODO: Auto-generated Javadoc
