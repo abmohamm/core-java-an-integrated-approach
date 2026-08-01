@@ -1,3 +1,4 @@
+//Factorial without Recursion
 package com.app.samples.methodsinjava;
 
 // TODO: Auto-generated Javadoc
@@ -10,7 +11,8 @@ public class NoRecursion {
 	static long factorial(int number) {
 		long factorial  = 1;
 		while(number > 0) {
-			factorial = factorial * number--;
+			factorial = factorial * number--;	/* factorial = factorial * number;
+												   number--; */
 		}
 		return factorial;
 	}

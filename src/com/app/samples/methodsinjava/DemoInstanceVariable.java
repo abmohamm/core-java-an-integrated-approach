@@ -1,3 +1,4 @@
+//instance variables
 package com.app.samples.methodsinjava;
 
 // TODO: Auto-generated Javadoc

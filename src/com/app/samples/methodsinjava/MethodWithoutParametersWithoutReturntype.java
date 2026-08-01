@@ -1,3 +1,4 @@
+//Understanding the methods - method with parameters and without return type
 package com.app.samples.methodsinjava;
 
 // TODO: Auto-generated Javadoc
@@ -33,7 +34,8 @@ public class MethodWithoutParametersWithoutReturntype {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//	create object and pass values 10 and 22.5 to  constructor, which will be stored into num1 and num2
+		/*	create object and pass values 10 and 22.5 to  constructor, 
+		which will be stored into num1 and num2	*/
 		SampleOne sample = new SampleOne(10, 22.5);
 		//	call method and find sum of num1 and num2
 		sample.sum();

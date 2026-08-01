@@ -1,3 +1,4 @@
+//Accessor and Mutator methods
 package com.app.samples.methodsinjava;
 
 // TODO: Auto-generated Javadoc
@@ -16,7 +17,7 @@ class Person {
 		this.age = age;
 	}
 	
-	//accessor methods to store data
+	//accessor methods to access data
 	public String getName() {
 		return name;
 	}

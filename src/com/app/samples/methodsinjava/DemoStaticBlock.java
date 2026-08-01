@@ -1,3 +1,4 @@
+//static block or static method? - JVM executes static block on highest priority basis
 package com.app.samples.methodsinjava;
 
 

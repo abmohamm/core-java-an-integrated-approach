@@ -1,3 +1,4 @@
+//No main() method
 package com.app.samples.methodsinjava;
 
 /**

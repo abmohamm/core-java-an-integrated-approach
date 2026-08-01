@@ -1,3 +1,5 @@
+//Matrix addition using arrays
+//Passing arrays to methods and returning them
 package com.app.samples.methodsinjava;
 
 import java.io.BufferedReader;
@@ -5,8 +7,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//Matrix addition using arrays
-//Passing arrays to methods and returning them
 class Matrix {
 	
 	//take a 2D array for matrix and rows, columns

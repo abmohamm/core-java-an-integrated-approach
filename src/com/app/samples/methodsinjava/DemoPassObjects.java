@@ -1,3 +1,4 @@
+//objects are also passed to methods by value
 package com.app.samples.methodsinjava;
 
 // TODO: Auto-generated Javadoc

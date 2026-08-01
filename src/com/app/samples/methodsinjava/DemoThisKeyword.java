@@ -1,3 +1,4 @@
+//this - refers to all the members of present class
 package com.app.samples.methodsinjava;
 
 // TODO: Auto-generated Javadoc

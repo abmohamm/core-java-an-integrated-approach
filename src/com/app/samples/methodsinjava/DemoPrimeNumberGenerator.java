@@ -1,3 +1,4 @@
+//Prime number series
 package com.app.samples.methodsinjava;
 
 import java.io.BufferedReader;

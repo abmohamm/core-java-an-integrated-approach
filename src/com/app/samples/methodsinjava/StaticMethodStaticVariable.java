@@ -1,3 +1,4 @@
+//static method accessing static variable
 package com.app.samples.methodsinjava;
 
 //TODO: Auto-generated Javadoc

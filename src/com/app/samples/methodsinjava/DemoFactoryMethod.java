@@ -1,10 +1,9 @@
+//creating our own factory method
 package com.app.samples.methodsinjava;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
-//creating our own factory method
 
 //an interface with an abstract method
 interface Fees {

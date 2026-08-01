@@ -1,10 +1,11 @@
+//Demo of varargs to find biggest number
 package com.app.samples.methodsinjava;
 
-//demo of varargs method to find biggest number
 public class DemoVariableArguments {
 
 	//This is varargs method, It can accept arbitrary number of arguments.
 	static int maximum(int ... x) {
+		//take the first number in the array as biggest
 		int maximum = x[0];
 		//compare the biggest number with other numbers
 		for(int i = 1; i < x.length; i++) {

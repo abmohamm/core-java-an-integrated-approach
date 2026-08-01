@@ -1,3 +1,4 @@
+//Primitive data types are passed to methods by value
 package com.app.samples.methodsinjava;
 
 
