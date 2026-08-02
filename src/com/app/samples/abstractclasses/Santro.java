@@ -1,3 +1,4 @@
+//This is a concrete subclass derived from Car class
 package com.app.samples.abstractclasses;
 
 //concrete subclass derived from Car class

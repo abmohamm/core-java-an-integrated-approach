@@ -1,3 +1,4 @@
+//All the objects need different implementations of the same method
 package com.app.samples.abstractclasses;
 
 //all the objects need different implementations of the same method

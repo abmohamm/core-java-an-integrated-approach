@@ -1,3 +1,4 @@
+//This is an abstract class
 package com.app.samples.abstractclasses;
 
 //this is an abstract class

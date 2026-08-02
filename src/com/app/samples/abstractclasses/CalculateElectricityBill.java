@@ -1,3 +1,4 @@
+//calculating electricity bill for domestic and commercial plans
 package com.app.samples.abstractclasses;
 
 //calculating electricity bill for domestic and commercial plans

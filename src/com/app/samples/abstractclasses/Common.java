@@ -1,3 +1,4 @@
+//All the objects sharing the same method
 package com.app.samples.abstractclasses;
 
 // TODO: Auto-generated Javadoc
