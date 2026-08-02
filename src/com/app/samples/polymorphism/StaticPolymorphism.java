@@ -1,3 +1,4 @@
+//Static polymorphism
 package com.app.samples.polymorphism;
 
 //Static polymorphism

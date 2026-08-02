@@ -1,3 +1,4 @@
+//calculate Electricity bill for commercial and domestic users
 package com.app.samples.polymorphism;
 
 //Electricity bill for Commercial connection
