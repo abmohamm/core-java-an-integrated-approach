@@ -22,7 +22,7 @@ class Square extends Shape {
 	
 	//calculate area of square
 	void area() {
-		// 'length' of Shape class is available to Square class
+		// because of inheritance, 'length' of Shape class is available to Square class
 		System.out.println("Area of Square : " + (length * length));
 	}
 	
@@ -41,7 +41,7 @@ class Rectangle extends Square {
 	
 	//calculate area of rectangle
 	void area() {
-		// 'length' of Shape class is available to Rectangle class
+		// because of inheritance, 'length' of Shape class is available to Rectangle class
 		System.out.println("Area of Rectangle : " + (length * breadth));
 	}
 }

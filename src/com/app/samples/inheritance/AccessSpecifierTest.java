@@ -1,3 +1,4 @@
+//private and protected
 package com.app.samples.inheritance;
 
 //private and protected
@@ -8,7 +9,7 @@ class Access {
 
 class SubAccess extends Access {
 	public void get() {
-		System.out.println(a);
+		System.out.println(a);	//error - a is private
 		System.out.println(b);
 	}
 }

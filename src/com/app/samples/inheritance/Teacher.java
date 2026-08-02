@@ -1,3 +1,4 @@
+//Teacher class
 package com.app.samples.inheritance;
 
 //Teacher class

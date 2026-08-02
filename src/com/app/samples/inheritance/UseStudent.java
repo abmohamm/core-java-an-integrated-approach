@@ -1,3 +1,4 @@
+//Using Student class
 package com.app.samples.inheritance;
 
 //using Student class

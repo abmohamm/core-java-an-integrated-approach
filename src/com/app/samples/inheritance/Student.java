@@ -1,3 +1,4 @@
+//Student class - version 1
 package com.app.samples.inheritance;
 
 //Student class - version 1
