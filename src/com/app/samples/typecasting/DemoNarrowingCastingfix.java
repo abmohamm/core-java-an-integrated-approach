@@ -1,3 +1,4 @@
+//Narrowing using sub class object
 package com.app.samples.typecasting;
 
 //narrowing using sub class object

@@ -1,3 +1,4 @@
+//cloning example
 package com.app.samples.typecasting;
 
 //cloning example

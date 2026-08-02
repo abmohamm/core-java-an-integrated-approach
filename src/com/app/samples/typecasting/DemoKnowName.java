@@ -1,3 +1,4 @@
+//using getClass() to know the classname
 package com.app.samples.typecasting;
 
 //using getClass() to know the classname

@@ -1,3 +1,4 @@
+//Narrowing using super class object
 package com.app.samples.typecasting;
 
 //narrowing using super class object
