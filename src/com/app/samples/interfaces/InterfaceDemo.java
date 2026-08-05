@@ -1,3 +1,4 @@
+//interface example - Connecting to any Database
 package com.app.samples.interfaces;
 
 import java.lang.reflect.InvocationTargetException;
@@ -6,7 +7,7 @@ import java.lang.reflect.InvocationTargetException;
 interface MyInterface {
 	
 	//interface methods are public and abstract by default
-	void connect();
+	void connect();	//abstract public
 	void disconnect();
 }
 

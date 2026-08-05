@@ -1,3 +1,4 @@
+//An interface Printer to send text to any printer
 package com.app.samples.interfaces;
 
 import java.io.FileReader;
@@ -15,7 +16,7 @@ interface Printer {
 	void disconnect();
 }
 
-//implementing interface for IBMPrinter
+//Implementing Printer interface for IBMPrinter
 class IBMPrinter implements Printer {
 
 	public void printit(String text) {
@@ -31,7 +32,7 @@ class IBMPrinter implements Printer {
 	
 }
 
-//implementing interface for EpsonPrinter
+//implementing Printer interface for EpsonPrinter
 class EpsonPrinter implements Printer {
 
 	public void printit(String text) {

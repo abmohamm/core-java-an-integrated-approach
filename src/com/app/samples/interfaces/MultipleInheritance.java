@@ -1,3 +1,4 @@
+//Multiple inheritance using interfaces
 package com.app.samples.interfaces;
 
 //multiple inheritance using interfaces

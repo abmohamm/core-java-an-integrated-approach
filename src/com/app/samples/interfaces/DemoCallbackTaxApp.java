@@ -1,3 +1,5 @@
+//callback mechanism using interfaces in java
+//create an interface
 package com.app.samples.interfaces;
 
 import java.lang.reflect.InvocationTargetException;
@@ -33,15 +35,13 @@ public class DemoCallbackTaxApp {
 
 	public static void main(String[] args) throws ClassNotFoundException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, NoSuchMethodException {
 		// TODO Auto-generated method stub
-		//accept the state name through command line arguments, state name is stored in an object - clazz
+		//Accept the state name through command line arguments, state name is stored in an object - clazz
 		Class<?> clazz = Class.forName(args[0]);
-		//create a new object to that class whose name is in clazz, Tax interface reference is referencing to that object.
+		//Create a new object to that class whose name is in clazz, Tax interface reference is referencing to that object.
 		Tax tax = (Tax)clazz.getDeclaredConstructor().newInstance();
-		/*	
-		 *call the method to calculate tax and pass interface reference - this is callback.
+		/*call the method to calculate tax and pass interface reference - this is callback.
 		 *Here, tax may refer to stateTax() of AndhraPradesh or Karnataka classes depending on the class for which  
-		 *object is created in the previous step
-		 */
+		 *object is created in the previous step*/
 		calculateTax(tax);
 	}
 
