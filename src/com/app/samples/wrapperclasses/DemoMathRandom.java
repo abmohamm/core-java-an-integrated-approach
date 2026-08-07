@@ -1,3 +1,4 @@
+//Generating random numbers between 0 and 10
 package com.app.samples.wrapperclasses;
 
 //Generating random numbers between 0 and 10
