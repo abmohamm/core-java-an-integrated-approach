@@ -1,3 +1,4 @@
+//Logical error
 package com.app.samples.exceptionhandling;
 
 //Logical error

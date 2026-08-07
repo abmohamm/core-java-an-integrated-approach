@@ -1,3 +1,4 @@
+//using throw
 package com.app.samples.exceptionhandling;
 
 //using throw

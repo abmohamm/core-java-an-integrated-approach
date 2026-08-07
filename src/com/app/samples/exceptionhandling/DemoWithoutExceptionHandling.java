@@ -1,3 +1,4 @@
+//An exception example
 package com.app.samples.exceptionhandling;
 
 public class DemoWithoutExceptionHandling {

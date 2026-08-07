@@ -1,3 +1,4 @@
+//Handling multiple exceptions using try, catch and finally blocks
 package com.app.samples.exceptionhandling;
 
 //Handling multiple exceptions using try, catch and finally blocks

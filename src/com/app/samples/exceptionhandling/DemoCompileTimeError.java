@@ -1,3 +1,4 @@
+//Compile-time error
 package com.app.samples.exceptionhandling;
 
 //Compile-time error

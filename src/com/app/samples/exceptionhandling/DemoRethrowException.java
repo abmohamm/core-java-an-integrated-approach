@@ -1,3 +1,4 @@
+//Rethrowing an exception
 package com.app.samples.exceptionhandling;
 
 //Rethrowing an exception

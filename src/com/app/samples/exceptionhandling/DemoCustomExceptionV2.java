@@ -1,3 +1,5 @@
+//User defined exception 
+//to throw whenever balance amount is below Rs. 1000
 package com.app.samples.exceptionhandling;
 
 //User defined exception to throw whenever balance amount is below Rs. 1000
