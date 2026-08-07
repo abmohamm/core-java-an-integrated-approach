@@ -1,3 +1,4 @@
+//class UseAccessSpecifier of same package
 package com.app.samples.packages;
 
 public class UseAccessSpecifier {

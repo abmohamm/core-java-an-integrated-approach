@@ -1,3 +1,4 @@
+//STEP 2 : Using the package packages
 package com.app.samples.packages;
 
 //STEP 2 : Using the package packages

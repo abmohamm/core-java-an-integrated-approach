@@ -1,3 +1,4 @@
+//class DemoAccessSpecifier of another package
 package com.app.samples.packages.accessspecifier;
 
 import com.app.samples.packages.AccessSpecifier;

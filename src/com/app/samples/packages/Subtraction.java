@@ -1,3 +1,4 @@
+//Adding another class to the package : packages
 package com.app.samples.packages;
 
 //Adding another class to the package : packages

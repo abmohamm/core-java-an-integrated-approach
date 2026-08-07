@@ -1,6 +1,7 @@
+//Using the package packages
 package com.app.samples.packages;
 
-//Using the package pack
+//Using the package packages
 public class UseAdditionSubtraction {
 
 	public static void main(String[] args) {

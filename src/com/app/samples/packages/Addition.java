@@ -1,3 +1,4 @@
+//STEP 1 : Creating a package with packages with Addition class
 package com.app.samples.packages;	//packages is the package name
 
 //STEP 1: Creating a package with Addition class

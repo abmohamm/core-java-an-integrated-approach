@@ -1,3 +1,4 @@
+//Create MyDate interface in the package packages
 package com.app.samples.packages;
 
 import java.util.Date;
@@ -8,6 +9,7 @@ interface MyDate {
 }
 
 //This is  implementation class of MyDate interface
+//store MyDateImpl class also in package : packages
 class MyDateImpl implements MyDate {
 
 	public void showDate() {
@@ -20,7 +22,7 @@ class MyDateImpl implements MyDate {
 	
 }
 
-//Using DateImpl class of my packages
+//Using DateImpl class of package : packages
 public class DateDisplay {
 
 	public static void main(String[] args) {
