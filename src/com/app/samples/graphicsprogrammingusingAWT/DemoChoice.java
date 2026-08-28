@@ -4,6 +4,7 @@ import java.awt.Choice;
 import java.awt.FlowLayout;
 import java.awt.Frame;
 import java.awt.Graphics;
+import java.awt.Label;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 import java.awt.event.WindowAdapter;
@@ -18,10 +19,16 @@ public class DemoChoice extends Frame implements ItemListener {
 	//choice of languages
 	Choice languages;
 	
+	//label for languages
+	Label chooseLanguage;
+	
 	DemoChoice() {
 		
 		//set flow layout to frame
 		this.setLayout(new FlowLayout());
+		
+		//create chooseLanguage label
+		chooseLanguage = new Label("Languages : ", Label.LEFT);
 		
 		//create an empty choice menu
 		languages = new Choice();
@@ -33,7 +40,8 @@ public class DemoChoice extends Frame implements ItemListener {
 		languages.add("Sanskrit");
 		languages.add("French");
 		
-		//add choice menu to frame
+		//add labels and choice menu to frame
+		this.add(chooseLanguage);
 		this.add(languages);
 		
 		//add item listener to choice menu
@@ -49,7 +57,7 @@ public class DemoChoice extends Frame implements ItemListener {
 	
 	}
 	
-	//this method is called when any item is clicked
+	//this method is called when any item is selected
 	public void itemStateChanged(ItemEvent itemEvent) {
 		
 		// TODO Auto-generated method stub
