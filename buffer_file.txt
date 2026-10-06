@@ -1,0 +1,4 @@
+This is buffer_file line one
+This is buffer_file line two
+This is buffer_file line three
+This is buffer_file line four

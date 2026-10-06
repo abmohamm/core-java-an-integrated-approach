@@ -1,0 +1,4 @@
+This is a book on Java.
+I am a learner of Java.
+core java - an integrated approach is 
+best suitable from beginners to experienced resources.
